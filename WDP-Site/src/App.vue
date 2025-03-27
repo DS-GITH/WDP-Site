@@ -1,7 +1,7 @@
-<script>
-export default {
-  name: 'App'
-};
+<script setup>
+
+import SubmitButton from './components/SubmitButton.vue';
+
 </script>
 
 
@@ -14,7 +14,8 @@ export default {
 
 
 <div>
-
+<h1> Hello, World!</h1>
+<SubmitButton>Submit</SubmitButton>
   
 </div>
   
