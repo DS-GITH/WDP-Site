@@ -1,18 +1,31 @@
-<template>
-
-
-  <div class="container">
-    <h1>Página em Branco</h1>
-  </div>
-
-  
-</template>
-
 <script>
 export default {
   name: 'App'
 };
 </script>
+
+
+
+<!------------Html------------>
+
+
+
+<template>
+
+
+<div>
+
+  
+</div>
+  
+</template>
+
+
+
+<!------------Scss------------>
+
+
+
 
 <style lang="scss" scoped>
 $cor-primaria: #42b983;
