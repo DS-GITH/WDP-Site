@@ -1,6 +1,6 @@
 <script setup>
 
-import SubmitButton from './components/SubmitButton.vue';
+
 
 </script>
 
@@ -15,7 +15,7 @@ import SubmitButton from './components/SubmitButton.vue';
 
 <div>
 <h1> Hello, World!</h1>
-<SubmitButton>Submit</SubmitButton>
+
   
 </div>
   
